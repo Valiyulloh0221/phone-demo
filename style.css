@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+}
+#app {
+    width: 300px;
+    margin: 0 auto;
+}
+h1, h2 {
+    text-align: center;
+}
